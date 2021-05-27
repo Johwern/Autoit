@@ -1,0 +1,9 @@
+1. Start the application.
+2. Select the key you want to use for intitiating the output.
+3. Fill the textbox with the content you want to type out.
+4. Activate the applitaion you want to type the data into.
+5. Press the key you selected earlier.
+
+Known problem.
+1. The application will make an extra row on carige return.
+2. There seem to be problems with typing #
